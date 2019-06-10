@@ -161,7 +161,7 @@
     "electron-installer-redhat": "^1.1.0",
     "electron-installer-snap": "^3.2.0",
     "electron-windows-store": "^2.1.0",
-    "electron-winstaller": "^3.0.4",
+    "electron-winstaller": "git://github.com/slamdata/windows-installer.git#86de981f97bdffe03321e31ccab247ca39b0b44e",
     "electron-wix-msi": "^2.1.1"
   }
 }

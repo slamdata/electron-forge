@@ -20,6 +20,6 @@
     "fs-extra": "^7.0.0"
   },
   "optionalDependencies": {
-    "electron-winstaller": "^3.0.4"
+    "electron-winstaller": "git://github.com/slamdata/windows-installer.git#86de981f97bdffe03321e31ccab247ca39b0b44e"
   }
 }
